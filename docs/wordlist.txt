@@ -1,6 +1,3 @@
-Gong MCP
-gong_mcp
-gong-mcp
 addopts
 autosummary
 celerybeat
@@ -13,11 +10,16 @@ epub
 errorlevel
 furo
 genindex
+Gong MCP
+gong_mcp
+gong-mcp
+Gongy
 htmlcov
 ignorelist
 intersphinx
 ipynb
 ipython
+logfire
 loguru
 mkdocs
 modindex
