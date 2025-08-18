@@ -730,7 +730,7 @@ typing = [
 
 [package.metadata]
 requires-dist = [
-    { name = "gongy", specifier = ">=0.5.1" },
+    { name = "gongy", specifier = ">=0.5.3" },
     { name = "logfire", extras = ["aiohttp-client"], specifier = ">=4.3.3" },
     { name = "loguru", specifier = ">=0.7.3" },
     { name = "mcp", extras = ["cli"], specifier = ">=1.12.4" },
@@ -795,7 +795,7 @@ typing = [
 
 [[package]]
 name = "gongy"
-version = "0.5.1"
+version = "0.5.3"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "aiohttp" },
@@ -803,9 +803,9 @@ dependencies = [
     { name = "pydantic", extra = ["email"] },
     { name = "yarl" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/92/5f/f2fc32d152d2bfad9005126047d1951ce25baaaf0233cde04732e0697847/gongy-0.5.1.tar.gz", hash = "sha256:9338b0f8b247c61a33097a9199bd591379171491f4c450ae3296b4faa21f7f91", size = 104187, upload-time = "2025-08-16T22:29:42.755Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/e3/42/30b18825400658e5a4ba9bf9c5bce5af9fc99a33d681a4ba620a85868ad0/gongy-0.5.3.tar.gz", hash = "sha256:d0b0cb447044e970645de65b3f91b65795643309e0313360c8aae771581a7158", size = 104199, upload-time = "2025-08-18T17:46:27.556Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/c7/17/70bfda6c12ed8b499224d475844eb9e2094ab5eae30f4a2c51c328d36a3d/gongy-0.5.1-py3-none-any.whl", hash = "sha256:f78344b6cc4cd7e66ad4bb2aaf3677a4b734d15c6cd76c99129d354d216f48ab", size = 15915, upload-time = "2025-08-16T22:29:41.424Z" },
+    { url = "https://files.pythonhosted.org/packages/a6/df/11510dc39f31f8127eb09619125ca52acb0eeedd89ae17054333391b9005/gongy-0.5.3-py3-none-any.whl", hash = "sha256:5b26cab2b95e82006e71be66a909eae9237e47b97cc0b134ca969a7694fa0261", size = 15820, upload-time = "2025-08-18T17:46:26.183Z" },
 ]
 
 [[package]]

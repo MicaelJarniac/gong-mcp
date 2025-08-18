@@ -20,7 +20,7 @@ classifiers = [
 
 requires-python = ">=3.13"  # py_ver
 dependencies = [
-    "gongy>=0.5.1",
+    "gongy>=0.5.3",
     "logfire[aiohttp-client]>=4.3.3",
     "loguru>=0.7.3",
     "mcp[cli]>=1.12.4",

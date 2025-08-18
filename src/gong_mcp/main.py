@@ -21,10 +21,7 @@ from gongy.models import (
 from mcp.server.fastmcp import Context, FastMCP
 from mcp.server.session import ServerSession
 
-from gong_mcp.logging_setup import setup_logging
 from gong_mcp.settings import Settings
-
-setup_logging()
 
 
 @dataclass

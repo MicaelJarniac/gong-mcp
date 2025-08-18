@@ -8,6 +8,7 @@ dmypy
 docstrings
 epub
 errorlevel
+fastmcp
 furo
 genindex
 Gong MCP
