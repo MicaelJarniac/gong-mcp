@@ -1,6 +1,6 @@
 [project]
 name = "gong-mcp"
-version = "0.0.0"
+version = "0.1.0"
 description = "Gong MCP."
 authors = [
   {name = "Micael Jarniac", email = "micael@jarniac.dev"},
